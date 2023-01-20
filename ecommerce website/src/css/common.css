@@ -1,0 +1,20 @@
+.user-actions a {
+    color: black;
+    margin-right: 20px;
+}
+.user-actions.logout-Btn .userIntro{
+    margin-left: 40px;
+    cursor: pointer;
+}
+
+#header{
+    background-color: rgb(240, 240, 190);
+    padding: 32px 0;
+}
+.header-wrapper a {
+    color: black;
+    font-size: 15px;
+}
+.user-actions{
+    line-height: 24px;
+}

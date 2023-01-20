@@ -1,0 +1,19 @@
+.home-title{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.category-item{
+    border: 1px solid rgb(234, 48, 48);
+    margin: 10px;
+    width: 150px;
+    background-color: rgb(137, 118, 118);
+
+}
+.category-item a{
+    font-size: 8px;
+    padding: 10px 10px;
+}
+.category-title{
+    margin-top: 10px;
+    font-size: 8px;
+}
